@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - branch-*
+      - rerun
   pull_request:
 
 jobs:
